@@ -15,7 +15,7 @@ This is an Android application built in Java using Android Studio that displays 
 - XML for layout design
 
 ## Screenshots
-*(Add screenshots if you can)*
+
 
 ## Setup
 1. Clone the repository
