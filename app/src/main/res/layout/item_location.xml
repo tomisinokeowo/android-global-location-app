@@ -1,0 +1,47 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/border"
+    android:padding="16dp"
+    android:layout_marginBottom="8dp">
+
+
+    <!-- Location Name -->
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_location_name"
+        android:textStyle="bold"
+        android:textSize="16sp" />
+
+    <!-- Country Name -->
+    <TextView
+        android:id="@+id/tv_country"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hint_country"
+        android:layout_marginTop="4dp" />
+
+    <!-- GPS, Date, and Rating details -->
+    <TextView
+        android:id="@+id/tv_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gps_date_rating"
+        android:layout_marginTop="4dp" />
+
+    <!-- 3 Vertical Dots Menu Button (Overflow Button) -->
+    <ImageButton
+        android:id="@+id/btn_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/ic_menu_delete"
+        android:contentDescription="@string/more_options"
+        android:layout_gravity="end"
+        android:padding="12dp"
+        android:background="@color/green"
+        android:layout_marginTop="8dp" />
+</LinearLayout>
