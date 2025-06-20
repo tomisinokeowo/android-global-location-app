@@ -14,7 +14,12 @@ This is an Android application built in Java using Android Studio that displays 
 - REST APIs
 - XML for layout design
 
-## Screenshots
+
+## 📸 Screenshots:
+
+Here’s what the home page looks like:
+
+![Home Page](assets/home_page.png)
 
 
 ## Setup
