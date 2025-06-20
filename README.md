@@ -1,11 +1,20 @@
-# android-global-location-app
+## 📱 Global Location Tracker App
 
-This is an Android application built in Java using Android Studio that displays real-time location data using the Google Maps API. It simulates a location-based service, such as delivery or route tracking.
+An Android application that uses real-time GPS data to display the user’s current location with latitude and longitude. Built using Java and the Android SDK, the app integrates Google Play Services to deliver accurate location tracking and interactive UI feedback. Ideal for showcasing skills in mobile development, API integration, and geolocation features.
 
-## Features
-- Real-time GPS location tracking
-- Interactive map using Google Play Services
-- Simple, intuitive UI with user-friendly controls
+### 🌟 Features
+- Real-time location tracking using FusedLocationProvider
+- Display of latitude and longitude coordinates
+- Mobile-first design with responsive layout
+- Runtime permission handling for GPS access
+- Custom UI components and error handling
+- Built with Android Studio and tested on real devices
+
+### 🧠 What It Demonstrates
+- Mobile application architecture (activities, intents, services)
+- Android UI/UX principles (layouts, input handling)
+- Integration of system-level APIs (GPS, permissions)
+- Debugging tools (Logcat, emulator, real device testing)
 
 ## Technologies Used
 - Java
