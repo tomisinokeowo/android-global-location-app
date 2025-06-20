@@ -29,7 +29,7 @@ Here’s what the home page looks like:
 ![Add Location](assets/addlocation.png)
 
 ### notfication!
-![Notification](assets/notification-locationadded!.png)
+![Notification](assets/notification.png)
 
 ### view locations
 ![View Locations](assets/viewlocations.png)
