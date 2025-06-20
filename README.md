@@ -44,11 +44,11 @@ Here’s what the home page looks like:
 ![View Locations](assets/viewlocations.png)
 
 
-## Setup
-1. Clone the repository
-2. Open the project in Android Studio
-3. Add your Google Maps API Key to `google_maps_api.xml`
-4. Run the app on an emulator or device
+### 🚀 How to Run
+1. Clone the repo
+2. Open in Android Studio
+3. Run on an emulator or physical Android device with location enabled
+4. Accept location permissions
 
 ## Status
 Complete – built for academic purposes.
