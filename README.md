@@ -28,7 +28,7 @@ Here’s what the home page looks like:
 ### ➕ add locations
 ![Add Location](assets/addlocation.png)
 
-### notfication!
+### notfication
 ![Notification](assets/notification.png)
 
 ### view locations
