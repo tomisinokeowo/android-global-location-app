@@ -19,7 +19,20 @@ This is an Android application built in Java using Android Studio that displays 
 
 Here’s what the home page looks like:
 
-![Home Page](assets/home_page.png)
+### 🏠 Home Page
+![Home Page](assets/homepage.png)
+
+### 📍 gps request
+![GPS Request](assets/gpsrequest.png)
+
+### ➕ add locations
+![Add Location](assets/addlocation.png)
+
+### notfication!
+![Notification](assets/notification-locationadded!.png)
+
+### view locations
+![View Locations](assets/viewlocations.png)
 
 
 ## Setup
